@@ -1,4 +1,0 @@
--------------------------------------------------------------------------------
-Test set: com.gohealth.bugtracker.services.SheetsServiceTests
--------------------------------------------------------------------------------
-Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.222 s - in com.gohealth.bugtracker.services.SheetsServiceTests
