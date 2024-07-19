@@ -1,0 +1,6 @@
+com/gohealth/bugtracker/interfaces/GoogleApiFacade.class
+com/gohealth/bugtracker/services/CredentialsService.class
+com/gohealth/bugtracker/implementations/BugTrackerFacadeImpl.class
+com/gohealth/bugtracker/BugtrackerApplication.class
+com/gohealth/bugtracker/services/SpreadSheetStorageService.class
+com/gohealth/bugtracker/services/SheetsService.class
