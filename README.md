@@ -1,12 +1,13 @@
 # GoHealthCodingChallenge
 This point of this challenge/code is to communicate with the Google Sheets API through a cli. Users of this code can update issues created on the GoHealthIssueTracker sheet. The application initilizes the creation of the sheet, and users worry about adding issues to it. Users can also close an issue, via issue id, which will update the status column of that issue id to ```Closed```.
 
-This code can be run using docker, or locally using run configurations. \n
+This code can be run using docker, or locally using run configurations.
 
 # Docker Commands:
 In order to run docker make sure you first run ```mvn clean package``` to create the jar files. These jar files will get create in the target package on the root project. 
 
 Once that is done, run these two commands. 
+
 BUILD:
 ```docker build -t bugtracker-app .```
 
