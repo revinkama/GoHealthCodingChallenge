@@ -4,10 +4,6 @@ This point of this challenge/code is to communicate with the Google Sheets API t
 This code can be run using docker, or locally using run configurations. *** This code needs the google-sheets-client-secrets.json copy/pasted into src/main/java/resources ***
 
 # Docker Commands:
-In order to run docker make sure you first run ```mvn clean package``` to create the jar files. These jar files will get create in the target package on the root project. 
-
-Once that is done, run these two commands. 
-
 BUILD:
 ```docker build -t bugtracker-app .```
 
